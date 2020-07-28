@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: milagrosalfonzo](https://img.shields.io/badge/-milagrosalfonzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milagros-liliana-alfonzo/)](https://www.linkedin.com/in/milagros-liliana-alfonzo/)
-[![GitHub Milo](https://img.shields.io/github/followers/milokett?label=follow&style=social)](https://github.com/milokett)
+[![GitHub Milo](https://img.shields.io/github/followers/miloalfonzo?label=follow&style=social)](https://github.com/miloalfonzo)
 
 
 ###  A little more about me...  
