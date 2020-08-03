@@ -12,7 +12,7 @@
 ```javascript
 const milo = {
   code: [Javascript, HTML, CSS, PHP, C],
-  tools: [React, Vue,  Node , Styled-Components],
+  tools: [React,  Node , Styled-Components],
   learning: [Python, Laravel, Docker],
  challenge: "I want to collaborate more with open source projects!"
 }
